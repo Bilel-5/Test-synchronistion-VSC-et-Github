@@ -25,8 +25,6 @@ mon-projet/
 ├── style.css
 └── README.md
 
-Utilisation
-Ouvrir le fichier index.html dans un navigateur web.
 
 
 
